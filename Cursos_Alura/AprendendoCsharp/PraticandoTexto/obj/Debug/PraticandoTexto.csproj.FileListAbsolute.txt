@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\bin\Debug\PraticandoTexto.exe.config
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\bin\Debug\PraticandoTexto.exe
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\bin\Debug\PraticandoTexto.pdb
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\obj\Debug\PraticandoTexto.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\obj\Debug\PraticandoTexto.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\obj\Debug\PraticandoTexto.exe
+C:\Cursos Alura\AprendendoCSharp\PraticandoTexto\obj\Debug\PraticandoTexto.pdb

@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\bin\Debug\2-DeclarandoVariaveis.exe.config
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\bin\Debug\2-DeclarandoVariaveis.exe
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\bin\Debug\2-DeclarandoVariaveis.pdb
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\obj\Debug\2-DeclarandoVariaveis.csproj.AssemblyReference.cache
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\obj\Debug\2-DeclarandoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\obj\Debug\2-DeclarandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\obj\Debug\2-DeclarandoVariaveis.exe
+C:\Cursos Alura\AprendendoCSharp\2-DeclarandoVariaveis\obj\Debug\2-DeclarandoVariaveis.pdb

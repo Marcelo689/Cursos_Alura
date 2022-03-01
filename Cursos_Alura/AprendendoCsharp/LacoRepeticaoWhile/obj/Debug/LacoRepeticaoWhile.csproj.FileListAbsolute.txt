@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\bin\Debug\LacoRepeticaoWhile.exe.config
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\bin\Debug\LacoRepeticaoWhile.exe
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\bin\Debug\LacoRepeticaoWhile.pdb
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\obj\Debug\LacoRepeticaoWhile.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\obj\Debug\LacoRepeticaoWhile.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\obj\Debug\LacoRepeticaoWhile.exe
+C:\Cursos Alura\AprendendoCSharp\LacoRepeticaoWhile\obj\Debug\LacoRepeticaoWhile.pdb

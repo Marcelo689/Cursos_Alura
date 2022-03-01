@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe.config
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\bin\Debug\ConversoesEOutrosTiposNumericos.pdb
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.exe
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.pdb
+C:\Cursos Alura\AprendendoCSharp\ConversoesEOutrosTiposNumericos\obj\Debug\ConversoesEOutrosTiposNumericos.csproj.AssemblyReference.cache

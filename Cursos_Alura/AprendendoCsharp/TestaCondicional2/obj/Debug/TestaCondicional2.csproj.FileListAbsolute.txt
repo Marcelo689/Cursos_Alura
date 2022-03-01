@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.exe.config
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.exe
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\bin\Debug\TestaCondicional2.pdb
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.AssemblyReference.cache
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.exe
+C:\Cursos Alura\AprendendoCSharp\TestaCondicional2\obj\Debug\TestaCondicional2.pdb

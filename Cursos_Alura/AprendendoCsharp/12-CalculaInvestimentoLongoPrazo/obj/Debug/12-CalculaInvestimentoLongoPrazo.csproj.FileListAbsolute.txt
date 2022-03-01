@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\12-CalculaInvestimentoLongoPrazo.exe.config
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\12-CalculaInvestimentoLongoPrazo.exe
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\bin\Debug\12-CalculaInvestimentoLongoPrazo.pdb
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.exe
+C:\Cursos Alura\AprendendoCSharp\12-CalculaInvestimentoLongoPrazo\obj\Debug\12-CalculaInvestimentoLongoPrazo.pdb

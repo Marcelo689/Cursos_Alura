@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\bin\Debug\CaracteresTexto.exe.config
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\bin\Debug\CaracteresTexto.exe
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\bin\Debug\CaracteresTexto.pdb
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\obj\Debug\5-CaracteresTexto.csproj.AssemblyReference.cache
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\obj\Debug\5-CaracteresTexto.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\obj\Debug\5-CaracteresTexto.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\obj\Debug\CaracteresTexto.exe
+C:\Cursos Alura\AprendendoCSharp\CaracteresTexto\obj\Debug\CaracteresTexto.pdb

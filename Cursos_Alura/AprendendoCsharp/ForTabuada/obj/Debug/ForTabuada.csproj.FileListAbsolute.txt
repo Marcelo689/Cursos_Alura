@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\bin\Debug\ForTabuada.exe.config
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\bin\Debug\ForTabuada.exe
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\bin\Debug\ForTabuada.pdb
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\obj\Debug\ForTabuada.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\obj\Debug\ForTabuada.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\obj\Debug\ForTabuada.exe
+C:\Cursos Alura\AprendendoCSharp\ForTabuada\obj\Debug\ForTabuada.pdb

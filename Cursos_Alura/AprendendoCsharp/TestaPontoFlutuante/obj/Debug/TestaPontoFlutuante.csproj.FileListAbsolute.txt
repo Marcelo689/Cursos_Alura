@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe.config
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.exe
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\bin\Debug\TestaPontoFlutuante.pdb
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.exe
+C:\Cursos Alura\AprendendoCSharp\TestaPontoFlutuante\obj\Debug\TestaPontoFlutuante.pdb

@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\obj\Debug\PraticandoCondicionais.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\obj\Debug\PraticandoCondicionais.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\bin\Debug\PraticandoCondicionais.exe.config
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\bin\Debug\PraticandoCondicionais.exe
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\bin\Debug\PraticandoCondicionais.pdb
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\obj\Debug\PraticandoCondicionais.exe
+C:\Cursos Alura\AprendendoCSharp\PraticandoCondicionais\obj\Debug\PraticandoCondicionais.pdb
