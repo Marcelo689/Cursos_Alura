@@ -12,5 +12,16 @@ namespace _01_ByteBank
         public int agencia = 11111;
         public int numero = 222;
         public double saldo = 1290.12;
+        public void Saque(double valor)
+        {
+            if (valor > saldo)
+            {
+                Console.WriteLine("Você não tem saldo suficiente");
+            }
+            else
+            {
+                saldo -= valor;
+            }
+        }
     }
 }

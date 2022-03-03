@@ -10,7 +10,27 @@
       "ProjectGuid": "6f14ae59-0089-453e-ba45-90096a8080b4",
       "DisplayName": "02-ByteBank",
       "ColorIndex": 1
+    },
+    "dbde1da0-2471-45b0-83bc-196762512808": {
+      "ProjectGuid": "dbde1da0-2471-45b0-83bc-196762512808",
+      "DisplayName": "03-ByteBank",
+      "ColorIndex": 2
+    },
+    "e96d23a4-92ed-4773-aebe-462909f7be2a": {
+      "ProjectGuid": "e96d23a4-92ed-4773-aebe-462909f7be2a",
+      "DisplayName": "04-ByteBank",
+      "ColorIndex": 3
+    },
+    "6cc1c584-3b99-4084-b43f-81d0913ff434": {
+      "ProjectGuid": "6cc1c584-3b99-4084-b43f-81d0913ff434",
+      "DisplayName": "05-ByteBank",
+      "ColorIndex": 4
+    },
+    "b5767c8b-4b42-4804-9007-a47a75fefe5b": {
+      "ProjectGuid": "b5767c8b-4b42-4804-9007-a47a75fefe5b",
+      "DisplayName": "06-ByteBank",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 6
 }

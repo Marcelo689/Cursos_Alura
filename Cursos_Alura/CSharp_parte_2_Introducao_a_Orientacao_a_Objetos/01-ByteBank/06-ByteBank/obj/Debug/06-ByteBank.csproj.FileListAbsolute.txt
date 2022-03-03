@@ -1,0 +1,8 @@
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\bin\Debug\06-ByteBank.exe.config
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\bin\Debug\06-ByteBank.exe
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\bin\Debug\06-ByteBank.pdb
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csproj.AssemblyReference.cache
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\obj\Debug\06-ByteBank.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\obj\Debug\06-ByteBank.exe
+C:\Cursos_Alura\CSharp_parte_2_Introducao_a_Orientacao_a_Objetos\01-ByteBank\06-ByteBank\obj\Debug\06-ByteBank.pdb
