@@ -1,0 +1,23 @@
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.AssemblyReference.cache
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CoreCompileInputs.cache
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe.config
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\bin\Debug\ByteBank.exe
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\bin\Debug\ByteBank.pdb
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\bin\Debug\ByteBank.exe.config
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CopyComplete
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.exe
+F:\CShrap parte 3\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.pdb
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe.config
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\bin\Debug\ClassesAbstratas.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\bin\Debug\ClassesAbstratas.pdb
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\bin\Debug\ByteBank.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\bin\Debug\ByteBank.pdb
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\bin\Debug\ByteBank.exe.config
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.csproj.CopyComplete
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ClassesAbstratas\obj\Debug\ClassesAbstratas.pdb
