@@ -1,0 +1,8 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\bin\Debug\MaoNaMassa.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\bin\Debug\MaoNaMassa.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\bin\Debug\MaoNaMassa.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\MaoNaMassa\obj\Debug\MaoNaMassa.pdb

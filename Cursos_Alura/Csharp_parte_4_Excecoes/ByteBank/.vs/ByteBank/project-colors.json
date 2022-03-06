@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e6f6770-2e18-4cbc-b158-fb873a283e11": {
+      "ProjectGuid": "2e6f6770-2e18-4cbc-b158-fb873a283e11",
+      "DisplayName": "ByteBank",
+      "ColorIndex": 0
+    },
+    "63adc347-0cd7-4652-9bf0-6c9e6089ed6f": {
+      "ProjectGuid": "63adc347-0cd7-4652-9bf0-6c9e6089ed6f",
+      "DisplayName": "ExcecoesExemplos",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "154c73ff-9bc0-470b-86fb-d6183fc6add4": {
+      "ProjectGuid": "154c73ff-9bc0-470b-86fb-d6183fc6add4",
+      "DisplayName": "ExcecoesExemplosParte2",
+      "ColorIndex": 2
+    },
+    "e8f63dfe-214e-441d-840f-3dd54f75a2ef": {
+      "ProjectGuid": "e8f63dfe-214e-441d-840f-3dd54f75a2ef",
+      "DisplayName": "MaoNaMassa",
+      "ColorIndex": 3
+    },
+    "71a42670-5027-47a7-813b-830f89d7b4d5": {
+      "ProjectGuid": "71a42670-5027-47a7-813b-830f89d7b4d5",
+      "DisplayName": "ArquivoAtividade",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,8 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\bin\Debug\Rascunho.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\bin\Debug\Rascunho.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\bin\Debug\Rascunho.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\obj\Debug\Rascunho.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\obj\Debug\Rascunho.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\obj\Debug\Rascunho.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\obj\Debug\Rascunho.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\Rascunho\obj\Debug\Rascunho.pdb

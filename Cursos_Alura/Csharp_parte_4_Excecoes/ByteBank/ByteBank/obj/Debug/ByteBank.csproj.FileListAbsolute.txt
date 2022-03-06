@@ -1,0 +1,8 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
