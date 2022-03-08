@@ -1,0 +1,12 @@
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe.config
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.exe
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.SistemaAgencia.pdb
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.dll
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.pdb
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CopyComplete
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.exe
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.pdb
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.SistemaAgencia\bin\Debug\ByteBank.Modelos.xml

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "892fc9b3-b4a5-46f7-a431-870e8f0e4c88": {
+      "ProjectGuid": "892fc9b3-b4a5-46f7-a431-870e8f0e4c88",
+      "DisplayName": "ByteBank.SistemaInterno",
+      "ColorIndex": 0
+    },
+    "3dbe3c00-83fc-4ea3-b73f-b2783220921d": {
+      "ProjectGuid": "3dbe3c00-83fc-4ea3-b73f-b2783220921d",
+      "DisplayName": "Bibliotecas",
+      "ColorIndex": 1
+    },
+    "ed2817c4-e359-4646-9c3f-4d42c754cf4d": {
+      "ProjectGuid": "ed2817c4-e359-4646-9c3f-4d42c754cf4d",
+      "DisplayName": "ClassLibrary1",
+      "ColorIndex": 2
+    },
+    "e7fdc446-31a7-4a34-bbe8-a6f157e6f31b": {
+      "ProjectGuid": "e7fdc446-31a7-4a34-bbe8-a6f157e6f31b",
+      "DisplayName": "ByteBank.SistemaInterno1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "749f8435-598c-466c-bca6-a39c347d42c1": {
+      "ProjectGuid": "749f8435-598c-466c-bca6-a39c347d42c1",
+      "DisplayName": "ByteBank.SistemaInterno",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
