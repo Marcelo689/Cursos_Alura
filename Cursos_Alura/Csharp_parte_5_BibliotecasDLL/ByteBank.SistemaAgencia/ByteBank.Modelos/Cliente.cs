@@ -21,7 +21,18 @@ namespace ByteBank
                 _cpf = value;
             }
         }
+        public override bool Equals(object obj)
+        {
+            Cliente outroCliente = obj as Cliente;
 
+            if (outroCliente == null) return false;
+
+            return CPF == outroCliente.CPF
+                            &&
+                   Nome == outroCliente.Nome
+                            &&
+                   Profissao == outroCliente.Profissao;
+        }
         public string Profissao { get { return _profissao; } set { _profissao = value; } }
     }
 }

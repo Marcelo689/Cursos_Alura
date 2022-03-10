@@ -1,4 +1,3 @@
-C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
 C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
 C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
 C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb

@@ -82,6 +82,12 @@ namespace ByteBank
             TaxaOperacao = 30 / TotalDeContasCriadas;
         }
 
+        public override string ToString()
+        {
+            return "Um Objeto de Conta Corrente";
+        }
+
+        
         private Cliente Titular { get { return _titular; } set { _titular = value; } }
         public static int TotalDeContasCriadas { get; private set; }
         public int Agencia { get; }

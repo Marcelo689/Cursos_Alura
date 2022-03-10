@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulandoString1", "ManipulandoString1\ManipulandoString1.csproj", "{5947D24E-FAC1-444B-B6F4-1BE3B9D114A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManipulandoString2", "ManipulandoString2\ManipulandoString2.csproj", "{86A19A3F-7FAA-4A12-A6DF-110BAD730DF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5947D24E-FAC1-444B-B6F4-1BE3B9D114A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5947D24E-FAC1-444B-B6F4-1BE3B9D114A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5947D24E-FAC1-444B-B6F4-1BE3B9D114A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A19A3F-7FAA-4A12-A6DF-110BAD730DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A19A3F-7FAA-4A12-A6DF-110BAD730DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A19A3F-7FAA-4A12-A6DF-110BAD730DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A19A3F-7FAA-4A12-A6DF-110BAD730DF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

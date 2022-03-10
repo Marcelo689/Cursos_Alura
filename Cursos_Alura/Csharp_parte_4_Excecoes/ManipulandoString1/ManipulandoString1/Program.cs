@@ -67,16 +67,25 @@ namespace ManipulandoString1
             //Console.WriteLine("Valor de moedaDestino: " + valor);
             //string valorMoedaOrigem = extratorDeValores.GetValor("moedaOrigem");
             //Console.WriteLine("Valor de moedaOrigem: " + valorMoedaOrigem);
-            
-            /// Parte 6
-            string urlParametros = "http://www.bytebank.com/cambio?moedaOrigem=real&moedaDestino=dolar&valor=1500";
-            ExtratorValorArgumentoUrl extratorDeValores = new ExtratorValorArgumentoUrl(urlParametros);
 
-            string valor = extratorDeValores.GetValor("moedaDestino");
-            Console.WriteLine("Valor de moedaDestino: " + valor);
-            string valorMoedaOrigem = extratorDeValores.GetValor("moedaOrigem");
-            Console.WriteLine("Valor de moedaOrigem: " + valorMoedaOrigem);
-            Console.WriteLine(extratorDeValores.GetValor("valor"));
+            /// Parte 6
+            //string urlParametros = "http://www.bytebank.com/cambio?moedaOrigem=real&moedaDestino=dolar&valor=1500";
+            //ExtratorValorArgumentoUrl extratorDeValores = new ExtratorValorArgumentoUrl(urlParametros);
+
+            //string valor = extratorDeValores.GetValor("moedaDestino");
+            //Console.WriteLine("Valor de moedaDestino: " + valor);
+            //string valorMoedaOrigem = extratorDeValores.GetValor("moedaOrigem");
+            //Console.WriteLine("Valor de moedaOrigem: " + valorMoedaOrigem);
+            //Console.WriteLine(extratorDeValores.GetValor("valor"));
+
+            // Parte 7
+            //string url = "www.bytebank.com/cambio?moedaOrigem=real&moedaDestino=dolar&valor=1500";
+            //ExtratorValorArgumentoUrl extratorDeValores = new ExtratorValorArgumentoUrl(url);
+            //Console.WriteLine(extratorDeValores.GetValor("moedaOrigem")); // real
+            //Console.WriteLine(extratorDeValores.GetValor("moedaDestino")); // dolar
+            //Console.WriteLine(extratorDeValores.GetValor("valor")); // 15
+
+            // Parte 8
 
             Console.ReadLine();
         }

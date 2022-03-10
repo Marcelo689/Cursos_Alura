@@ -4,6 +4,12 @@
         <name>ByteBank.Modelos</name>
     </assembly>
     <members>
+        <member name="M:ByteBank.ContaCorrente.Sacar(System.Double)">
+            <summary>
+            Realiza o saque e atualiza o valor da propriedade Saldo.
+            </summary>
+            <param name="valor"> Representa o valor do saque, deve ser maior que 0 e menor que o Saldo. </param>
+        </member>
         <member name="M:ByteBank.ContaCorrente.#ctor(System.Int32,System.Int32)">
             <summary>
              Define um objeto que tem metodos de acoes utilizadas em bancos
