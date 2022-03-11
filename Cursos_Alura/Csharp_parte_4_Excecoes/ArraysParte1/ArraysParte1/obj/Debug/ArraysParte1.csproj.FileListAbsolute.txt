@@ -1,0 +1,11 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\bin\Debug\ArraysParte1.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\bin\Debug\ArraysParte1.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\bin\Debug\ArraysParte1.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\obj\Debug\ArraysParte1.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\obj\Debug\ArraysParte1.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\obj\Debug\ArraysParte1.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\obj\Debug\ArraysParte1.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\bin\Debug\ByteBank.Modelos.dll
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\bin\Debug\ByteBank.Modelos.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\bin\Debug\ByteBank.Modelos.xml
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ArraysParte1\ArraysParte1\obj\Debug\ArraysParte1.csproj.CopyComplete
