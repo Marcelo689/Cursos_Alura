@@ -1,10 +1,6 @@
 ﻿using ExcecoesExemplos;
 using ExcecoesExemplosParte2;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ByteBank
 {   
@@ -19,7 +15,12 @@ namespace ByteBank
             if (valor > 0) Saldo += valor;
         }
 
-
+        public override bool Equals(object obj)
+        {
+            ContaCorrente contaRecebida = obj as ContaCorrente;
+            if (contaRecebida == null) return false;
+            return contaRecebida.Numero == this.Numero && contaRecebida.Agencia == this.Agencia;
+        }
         /// <summary>
         /// Realiza o saque e atualiza o valor da propriedade Saldo.
         /// </summary>
