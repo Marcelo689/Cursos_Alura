@@ -85,7 +85,7 @@ namespace ByteBank
 
         public override string ToString()
         {
-            return "Um Objeto de Conta Corrente";
+            return $"Número {Numero}, Agência {Agencia}, Saldo {Saldo}";
         }
 
         

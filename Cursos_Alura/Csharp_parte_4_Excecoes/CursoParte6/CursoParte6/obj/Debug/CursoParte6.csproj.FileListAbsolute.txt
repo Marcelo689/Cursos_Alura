@@ -1,0 +1,12 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\bin\Debug\CursoParte6.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\bin\Debug\CursoParte6.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\bin\Debug\CursoParte6.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\obj\Debug\CursoParte6.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\obj\Debug\CursoParte6.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\obj\Debug\CursoParte6.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\obj\Debug\CursoParte6.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\obj\Debug\CursoParte6.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\bin\Debug\ByteBank.Modelos.dll
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\bin\Debug\ByteBank.Modelos.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\bin\Debug\ByteBank.Modelos.xml
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\CursoParte6\CursoParte6\obj\Debug\CursoParte6.csproj.CopyComplete
