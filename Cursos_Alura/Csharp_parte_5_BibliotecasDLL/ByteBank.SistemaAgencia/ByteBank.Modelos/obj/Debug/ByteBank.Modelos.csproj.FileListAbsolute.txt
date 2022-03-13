@@ -20,3 +20,4 @@ C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.M
 C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\NPOI.OpenXml4Net.pdb
 C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\bin\Debug\NPOI.OpenXmlFormats.pdb
 C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CopyComplete
+C:\Cursos_Alura\Csharp_parte_5_BibliotecasDLL\ByteBank.SistemaAgencia\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache

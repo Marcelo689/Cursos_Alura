@@ -64,6 +64,7 @@
     <Compile Include="Class1.cs" />
     <Compile Include="ClasseTeste.cs" />
     <Compile Include="Cliente.cs" />
+    <Compile Include="Comparadores\ComparadorContaCorrentePorAgencia.cs" />
     <Compile Include="ContaCorrente.cs" />
     <Compile Include="Funcionarios\Auxiliar.cs" />
     <Compile Include="Funcionarios\Desenvolvedor.cs" />

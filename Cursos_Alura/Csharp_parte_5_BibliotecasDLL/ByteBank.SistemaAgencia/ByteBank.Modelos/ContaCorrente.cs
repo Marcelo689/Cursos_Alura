@@ -4,7 +4,7 @@ using System;
 
 namespace ByteBank
 {   
-    public class ContaCorrente
+    public class ContaCorrente : IComparable
     {
         public static double TaxaOperacao { get; private set; }
         private Cliente _titular;
@@ -88,7 +88,19 @@ namespace ByteBank
             return $"Número {Numero}, Agência {Agencia}, Saldo {Saldo}";
         }
 
-        
+        public int CompareTo(object obj)
+        {
+            // Retornar negativo quando a instância precede o obj
+            // Retornar zero quando nossa instância e obj forem equivalentes;
+            // Retornar positivo diferente de zero quando a precedência for de obj;
+            ContaCorrente conta = obj as ContaCorrente;
+            if(conta == null) return -1;
+            if (Numero < conta.Numero) return -1;
+            if (Numero == conta.Numero) return 0;
+            return  1;
+
+        }
+
         private Cliente Titular { get { return _titular; } set { _titular = value; } }
         public static int TotalDeContasCriadas { get; private set; }
         public int Agencia { get; }
