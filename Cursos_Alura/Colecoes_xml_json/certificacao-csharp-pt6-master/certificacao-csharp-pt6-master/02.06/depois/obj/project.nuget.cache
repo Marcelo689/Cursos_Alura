@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xei9Vz8Z2OwjVkAG5/yMdH1fNplP7I6k7uX+bJFrSBGafgrZdVw5dl6Vn9S1wzrxIJVEPVQionF/v064IAiQjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos_Alura\\Colecoes_xml_json\\certificacao-csharp-pt6-master\\certificacao-csharp-pt6-master\\02.06\\depois\\02.06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

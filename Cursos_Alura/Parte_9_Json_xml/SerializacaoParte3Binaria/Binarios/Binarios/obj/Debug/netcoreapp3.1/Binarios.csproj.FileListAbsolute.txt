@@ -1,0 +1,16 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Binarios.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Binarios.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Binarios.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Binarios.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Binarios.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Binarios.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.csproj.CopyComplete
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte3Binaria\Binarios\Binarios\obj\Debug\netcoreapp3.1\Binarios.genruntimeconfig.cache

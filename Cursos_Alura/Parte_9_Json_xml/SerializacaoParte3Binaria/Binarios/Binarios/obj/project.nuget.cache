@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQiOtTzIkTZzxQTFtlGS2tlTtS62TOxh/mt7rzMA+SB/kMEjMwM9GWxAvgJCcEBUaek58xXxqvYu5kFICg/Z5A==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos_Alura\\Parte_9_Json_xml\\SerializacaoParte3Binaria\\Binarios\\Binarios\\Binarios.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
