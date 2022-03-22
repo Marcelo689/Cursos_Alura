@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\bin\Debug\netcoreapp3.1\Listas2.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\bin\Debug\netcoreapp3.1\Listas2.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\bin\Debug\netcoreapp3.1\Listas2.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\bin\Debug\netcoreapp3.1\Listas2.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\bin\Debug\netcoreapp3.1\Listas2.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\bin\Debug\netcoreapp3.1\Listas2.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte7\Listas2\Listas2\obj\Debug\netcoreapp3.1\Listas2.genruntimeconfig.cache

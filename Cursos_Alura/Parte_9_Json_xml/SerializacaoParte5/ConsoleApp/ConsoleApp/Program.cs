@@ -18,17 +18,6 @@ namespace ContratoDeDados
             {
                 serializer.WriteObject(fileStream, dados);
             }
-            LojaDeFilmes lojaContract;
-            using (var fileStream = new FileStream("loja.xml", FileMode.Open, FileAccess.ReadWrite))
-            {
-                lojaContract = (LojaDeFilmes) serializer.ReadObject(fileStream);
-            }
-
-            foreach (var filme in lojaContract.Filmes)
-            {
-                Console.WriteLine(filme.Titulo);
-            }
-
 
         }
 

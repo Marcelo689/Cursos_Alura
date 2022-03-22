@@ -6,8 +6,6 @@ using System.Runtime.Serialization;
 namespace JsonXml
 {
     [Serializable]
-    [JsonObject("MovieStore")]
-    [DataContract]
     public class LojaDeFilmes
     {
         [JsonProperty("Directors")]
@@ -24,15 +22,15 @@ namespace JsonXml
 
 
     [Serializable]
-    [JsonObject("Director")]
-    [DataContract]
-    public class Diretor
+    public class Diretor : ISerializable
     {
-        [JsonProperty("Name")]
         public string Nome { get; set; }
-        [JsonIgnore]
-        [NonSerialized]
         public int NumeroFilmes;
+
+        public void GetObjectData(SerializationInfo info, StreamingContext context)
+        {
+            info.AddValue("Resumo", $"Marcelo Jaeger {Nome}, {NumeroFilmes}");
+        }
     }
 
     [Serializable]
