@@ -1,0 +1,16 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\ConsoleAplicacao.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\ConsoleAplicacao.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\ConsoleAplicacao.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\ConsoleAplicacao.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\ConsoleAplicacao.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\ConsoleAplicacao.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.csproj.CopyComplete
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte8\ConsoleAplicacao\ConsoleAplicacao\obj\Debug\netcoreapp3.1\ConsoleAplicacao.genruntimeconfig.cache

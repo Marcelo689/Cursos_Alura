@@ -1,0 +1,15 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\bin\Debug\net6.0\MaoNaMassaFilas.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\bin\Debug\net6.0\MaoNaMassaFilas.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\bin\Debug\net6.0\MaoNaMassaFilas.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\bin\Debug\net6.0\MaoNaMassaFilas.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\bin\Debug\net6.0\ref\MaoNaMassaFilas.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\bin\Debug\net6.0\MaoNaMassaFilas.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\ref\MaoNaMassaFilas.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\MaoNaMassaFilas\MaoNaMassaFilas\obj\Debug\net6.0\MaoNaMassaFilas.genruntimeconfig.cache

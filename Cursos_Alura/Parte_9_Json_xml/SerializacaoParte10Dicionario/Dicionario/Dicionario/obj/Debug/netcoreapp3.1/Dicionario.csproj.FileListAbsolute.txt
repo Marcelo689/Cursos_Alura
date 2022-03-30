@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\bin\Debug\netcoreapp3.1\Dicionario.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\bin\Debug\netcoreapp3.1\Dicionario.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\bin\Debug\netcoreapp3.1\Dicionario.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\bin\Debug\netcoreapp3.1\Dicionario.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\bin\Debug\netcoreapp3.1\Dicionario.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\bin\Debug\netcoreapp3.1\Dicionario.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte10Dicionario\Dicionario\Dicionario\obj\Debug\netcoreapp3.1\Dicionario.genruntimeconfig.cache

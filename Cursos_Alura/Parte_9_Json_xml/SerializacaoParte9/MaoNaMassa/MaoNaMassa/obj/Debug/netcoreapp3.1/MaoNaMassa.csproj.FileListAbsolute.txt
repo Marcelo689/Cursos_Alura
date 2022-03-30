@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\bin\Debug\netcoreapp3.1\MaoNaMassa.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\bin\Debug\netcoreapp3.1\MaoNaMassa.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\bin\Debug\netcoreapp3.1\MaoNaMassa.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\bin\Debug\netcoreapp3.1\MaoNaMassa.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\bin\Debug\netcoreapp3.1\MaoNaMassa.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\bin\Debug\netcoreapp3.1\MaoNaMassa.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassa\MaoNaMassa\obj\Debug\netcoreapp3.1\MaoNaMassa.genruntimeconfig.cache

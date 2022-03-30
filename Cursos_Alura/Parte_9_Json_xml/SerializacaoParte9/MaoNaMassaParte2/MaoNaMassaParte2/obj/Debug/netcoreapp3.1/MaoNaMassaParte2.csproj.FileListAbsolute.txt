@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\bin\Debug\netcoreapp3.1\MaoNaMassaParte2.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\bin\Debug\netcoreapp3.1\MaoNaMassaParte2.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\bin\Debug\netcoreapp3.1\MaoNaMassaParte2.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\bin\Debug\netcoreapp3.1\MaoNaMassaParte2.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\bin\Debug\netcoreapp3.1\MaoNaMassaParte2.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\bin\Debug\netcoreapp3.1\MaoNaMassaParte2.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte9\MaoNaMassaParte2\MaoNaMassaParte2\obj\Debug\netcoreapp3.1\MaoNaMassaParte2.genruntimeconfig.cache

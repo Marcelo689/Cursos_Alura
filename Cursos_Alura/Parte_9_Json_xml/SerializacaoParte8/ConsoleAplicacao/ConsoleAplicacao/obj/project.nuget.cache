@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ajK5RJc9FFGpp9u8BQCen7JK+K4gbvDT3cHaKJL28Q+jWJxln0ShrFJP9EacZy2VwTG45+vVDyQgnZ59eT6TLA==",
+  "dgSpecHash": "zgSwHczoYX7JROfZLgpx3LkSdO5OAP5FEndGHza1sOTSQiTFcM4osjWuTrEHHF7OYr3BMbfqZBoNw3sFbr9XGg==",
   "success": true,
   "projectFilePath": "C:\\Cursos_Alura\\Parte_9_Json_xml\\SerializacaoParte8\\ConsoleAplicacao\\ConsoleAplicacao\\ConsoleAplicacao.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
   ],
   "logs": []

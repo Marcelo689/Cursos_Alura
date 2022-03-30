@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "daedbee9-eac1-4b3b-88f8-6a68d6265b46": {
+      "ProjectGuid": "daedbee9-eac1-4b3b-88f8-6a68d6265b46",
+      "DisplayName": "Assemblies",
+      "ColorIndex": 0
+    },
+    "5dacafd0-c884-42a9-b84f-09283d1d0e64": {
+      "ProjectGuid": "5dacafd0-c884-42a9-b84f-09283d1d0e64",
+      "DisplayName": "Bibliotecas",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
