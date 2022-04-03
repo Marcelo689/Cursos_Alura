@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wr3FM1IclXD7jQMhyWZ3V7JXMbfHUjbOTAgDGIxBqp0iPZG5mROMtI2G6ysuOvjZGy2z4AOFc34P+cKw4kIIBg==",
+  "success": true,
+  "projectFilePath": "E:\\Multitreading\\ThreadingCertificacao\\Parte 1.4\\Parte 1.4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

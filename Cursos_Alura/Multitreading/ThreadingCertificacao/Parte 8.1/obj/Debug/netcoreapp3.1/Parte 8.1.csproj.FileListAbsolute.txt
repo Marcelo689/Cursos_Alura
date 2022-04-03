@@ -1,0 +1,14 @@
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\bin\Debug\netcoreapp3.1\Parte 8.1.exe
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\bin\Debug\netcoreapp3.1\Parte 8.1.deps.json
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\bin\Debug\netcoreapp3.1\Parte 8.1.runtimeconfig.json
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\bin\Debug\netcoreapp3.1\Parte 8.1.runtimeconfig.dev.json
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\bin\Debug\netcoreapp3.1\Parte 8.1.dll
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\bin\Debug\netcoreapp3.1\Parte 8.1.pdb
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.csproj.AssemblyReference.cache
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.AssemblyInfoInputs.cache
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.AssemblyInfo.cs
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.csproj.CoreCompileInputs.cache
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.dll
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.pdb
+E:\Multitreading\ThreadingCertificacao\Parte 8.1\obj\Debug\netcoreapp3.1\Parte 8.1.genruntimeconfig.cache
