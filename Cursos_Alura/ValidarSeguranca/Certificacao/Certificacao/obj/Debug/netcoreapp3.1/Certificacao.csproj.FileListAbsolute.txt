@@ -1,0 +1,16 @@
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Certificacao.exe
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Certificacao.deps.json
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Certificacao.runtimeconfig.json
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Certificacao.runtimeconfig.dev.json
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Certificacao.dll
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Certificacao.pdb
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.csproj.AssemblyReference.cache
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.AssemblyInfoInputs.cache
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.AssemblyInfo.cs
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.csproj.CopyComplete
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.dll
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.pdb
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Certificacao\obj\Debug\netcoreapp3.1\Certificacao.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eWumshajx5Qcjx5eq07R7UuOxyU3ely8ZZ6fLFdcr6BJwvvA1OVwDeKBtr9aE27prMUhPtClxs0GXMU39YEaCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos_Alura\\ValidarSeguranca\\Certificacao\\Certificacao\\Parte1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
