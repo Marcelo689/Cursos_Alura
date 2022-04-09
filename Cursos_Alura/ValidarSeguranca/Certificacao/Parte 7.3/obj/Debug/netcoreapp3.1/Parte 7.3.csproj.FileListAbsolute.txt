@@ -1,0 +1,13 @@
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\bin\Debug\netcoreapp3.1\Parte 7.3.exe
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\bin\Debug\netcoreapp3.1\Parte 7.3.deps.json
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\bin\Debug\netcoreapp3.1\Parte 7.3.runtimeconfig.json
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\bin\Debug\netcoreapp3.1\Parte 7.3.runtimeconfig.dev.json
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\bin\Debug\netcoreapp3.1\Parte 7.3.dll
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\bin\Debug\netcoreapp3.1\Parte 7.3.pdb
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.AssemblyInfoInputs.cache
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.AssemblyInfo.cs
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.dll
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.pdb
+C:\Cursos_Alura\ValidarSeguranca\Certificacao\Parte 7.3\obj\Debug\netcoreapp3.1\Parte 7.3.genruntimeconfig.cache
