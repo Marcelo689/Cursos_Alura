@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Financas", "biblioteca\Financas.csproj", "{FD18B2E8-CA47-47A5-9C36-089337079891}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancasWeb", "biblioteca\FinancasWeb.csproj", "{DFBC515A-13D1-41F1-A129-44FA36724539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinancasTest", "tests\FinancasTest.csproj", "{4FE4928B-B9EB-490E-A982-609DFEF546CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD18B2E8-CA47-47A5-9C36-089337079891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD18B2E8-CA47-47A5-9C36-089337079891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD18B2E8-CA47-47A5-9C36-089337079891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD18B2E8-CA47-47A5-9C36-089337079891}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFBC515A-13D1-41F1-A129-44FA36724539}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFBC515A-13D1-41F1-A129-44FA36724539}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFBC515A-13D1-41F1-A129-44FA36724539}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFBC515A-13D1-41F1-A129-44FA36724539}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE4928B-B9EB-490E-A982-609DFEF546CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE4928B-B9EB-490E-A982-609DFEF546CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE4928B-B9EB-490E-A982-609DFEF546CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE4928B-B9EB-490E-A982-609DFEF546CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

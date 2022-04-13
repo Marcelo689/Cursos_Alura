@@ -1,0 +1,32 @@
+<Project DefaultTargets="Compile" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<DiretorioSaida>bin\</DiretorioSaida>
+		<ArquivoSaida>$(MsBuildProjectName).exe</ArquivoSaida>
+	</PropertyGroup>
+	<ItemGroup>
+		<Arquivos Include="**\*.cs" />
+	</ItemGroup>
+	
+	<Target Name="ArquivosParaCompilar">
+		<Message Text="@(Arquivos)" />
+	</Target>
+	<Target Name="Inicio">
+		<Message Text="Inicio da execução do script de compilação" />
+	</Target>
+	<Target Name="Fim">
+		<Message Text="Término da execução do script de compilação" />
+	</Target>
+	<Target Name="Clean">
+		<Delete Files="$(ArquivoSaida)" />
+		<RemoveDir Directories="bin" />
+	</Target>
+	<Target Name="PropriedadesReservadas">
+		<Message Text="$(MsBuildProjectFile)" />
+	</Target>
+	<Target Name="Compile">
+		<MakeDir Directories="bin"/>
+		<Csc Sources="@(Arquivos)" OutputAssembly="$(DiretorioSaida)$(ArquivoSaida)" />
+	</Target>
+	<Target Name="Recompile" DependsOnTargets="Clean;Compile">
+	</Target>
+</Project>
