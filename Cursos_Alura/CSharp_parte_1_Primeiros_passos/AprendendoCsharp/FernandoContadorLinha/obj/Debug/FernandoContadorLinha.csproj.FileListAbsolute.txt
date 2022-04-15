@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\bin\Debug\FernandoContadorLinha.exe.config
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\bin\Debug\FernandoContadorLinha.exe
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\bin\Debug\FernandoContadorLinha.pdb
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\obj\Debug\FernandoContadorLinha.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\obj\Debug\FernandoContadorLinha.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\obj\Debug\FernandoContadorLinha.exe
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\obj\Debug\FernandoContadorLinha.pdb
+C:\Cursos Alura\AprendendoCSharp\FernandoContadorLinha\obj\Debug\FernandoContadorLinha.csproj.AssemblyReference.cache

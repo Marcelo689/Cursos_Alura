@@ -1,0 +1,11 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\bin\Debug\ManipulandoString2.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\bin\Debug\ManipulandoString2.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\bin\Debug\ManipulandoString2.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\obj\Debug\ManipulandoString2.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\obj\Debug\ManipulandoString2.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\obj\Debug\ManipulandoString2.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\obj\Debug\ManipulandoString2.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\bin\Debug\ByteBank.Modelos.dll
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\bin\Debug\ByteBank.Modelos.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\bin\Debug\ByteBank.Modelos.xml
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString2\obj\Debug\ManipulandoString2.csproj.CopyComplete

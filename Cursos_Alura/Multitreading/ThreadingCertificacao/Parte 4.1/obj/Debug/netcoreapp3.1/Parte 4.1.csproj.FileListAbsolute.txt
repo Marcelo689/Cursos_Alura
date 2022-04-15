@@ -1,0 +1,32 @@
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.exe
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.deps.json
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.runtimeconfig.json
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.runtimeconfig.dev.json
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.dll
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.pdb
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.csproj.AssemblyReference.cache
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.AssemblyInfoInputs.cache
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.AssemblyInfo.cs
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.csproj.CoreCompileInputs.cache
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.csproj.CopyComplete
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.dll
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.pdb
+F:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.genruntimeconfig.cache
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.exe
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.deps.json
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.runtimeconfig.json
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.runtimeconfig.dev.json
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.dll
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Parte 4.1.pdb
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.csproj.AssemblyReference.cache
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.AssemblyInfoInputs.cache
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.AssemblyInfo.cs
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.csproj.CoreCompileInputs.cache
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.csproj.CopyComplete
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.dll
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.pdb
+E:\Multitreading\ThreadingCertificacao\Parte 4.1\obj\Debug\netcoreapp3.1\Parte 4.1.genruntimeconfig.cache

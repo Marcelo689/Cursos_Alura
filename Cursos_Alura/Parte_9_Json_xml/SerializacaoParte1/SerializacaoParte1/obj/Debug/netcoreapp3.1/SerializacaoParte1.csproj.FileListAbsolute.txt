@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\bin\Debug\netcoreapp3.1\SerializacaoParte1.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\bin\Debug\netcoreapp3.1\SerializacaoParte1.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\bin\Debug\netcoreapp3.1\SerializacaoParte1.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\bin\Debug\netcoreapp3.1\SerializacaoParte1.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\bin\Debug\netcoreapp3.1\SerializacaoParte1.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\bin\Debug\netcoreapp3.1\SerializacaoParte1.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte1\SerializacaoParte1\obj\Debug\netcoreapp3.1\SerializacaoParte1.genruntimeconfig.cache

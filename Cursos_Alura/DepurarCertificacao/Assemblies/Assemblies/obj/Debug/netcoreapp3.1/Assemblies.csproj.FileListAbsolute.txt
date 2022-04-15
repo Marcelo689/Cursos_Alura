@@ -1,0 +1,5 @@
+C:\Cursos_Alura\DepurarCertificacao\Assemblies\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.csproj.AssemblyReference.cache
+C:\Cursos_Alura\DepurarCertificacao\Assemblies\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\DepurarCertificacao\Assemblies\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.AssemblyInfoInputs.cache
+C:\Cursos_Alura\DepurarCertificacao\Assemblies\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.AssemblyInfo.cs
+C:\Cursos_Alura\DepurarCertificacao\Assemblies\Assemblies\obj\Debug\netcoreapp3.1\Assemblies.csproj.CoreCompileInputs.cache

@@ -1,0 +1,8 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\bin\Debug\ExcecoesExemplosParte2.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\bin\Debug\ExcecoesExemplosParte2.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\bin\Debug\ExcecoesExemplosParte2.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\obj\Debug\ExcecoesExemplosParte2.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\obj\Debug\ExcecoesExemplosParte2.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\obj\Debug\ExcecoesExemplosParte2.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\obj\Debug\ExcecoesExemplosParte2.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ByteBank\ExcecoesExemplosParte2\obj\Debug\ExcecoesExemplosParte2.pdb

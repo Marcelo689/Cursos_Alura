@@ -1,0 +1,8 @@
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\bin\Debug\ManipulandoString1.exe.config
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\bin\Debug\ManipulandoString1.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\bin\Debug\ManipulandoString1.pdb
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\obj\Debug\ManipulandoString1.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\obj\Debug\ManipulandoString1.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\obj\Debug\ManipulandoString1.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\obj\Debug\ManipulandoString1.exe
+C:\Cursos_Alura\Csharp_parte_4_Excecoes\ManipulandoString1\ManipulandoString1\obj\Debug\ManipulandoString1.pdb

@@ -1,0 +1,15 @@
+F:\CShrap parte 3\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+F:\CShrap parte 3\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+F:\CShrap parte 3\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+F:\CShrap parte 3\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+F:\CShrap parte 3\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+F:\CShrap parte 3\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+F:\CShrap parte 3\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\ByteBank\obj\Debug\ByteBank.pdb

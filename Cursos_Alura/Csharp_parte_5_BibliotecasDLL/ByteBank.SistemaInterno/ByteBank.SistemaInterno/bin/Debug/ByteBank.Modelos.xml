@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ByteBank.Modelos</name>
+    </assembly>
+    <members>
+        <member name="M:ByteBank.ContaCorrente.#ctor(System.Int32,System.Int32)">
+            <summary>
+             Define um objeto que tem metodos de acoes utilizadas em bancos
+            </summary>
+            <param name="agencia"><see cref="P:ByteBank.ContaCorrente.Agencia"/> Deve possuir valor maior que zero</param>
+            <param name="numero"><see cref="P:ByteBank.ContaCorrente.Numero"/> Deve possuir valor maior que zero</param>
+            <exception cref="T:System.ArgumentException"></exception>
+        </member>
+    </members>
+</doc>

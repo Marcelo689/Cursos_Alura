@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\bin\Debug\P10-CalculadoraPoupanca.exe.config
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\bin\Debug\P10-CalculadoraPoupanca.exe
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\bin\Debug\P10-CalculadoraPoupanca.pdb
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\obj\Debug\P10-CalculadoraPoupanca.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\obj\Debug\P10-CalculadoraPoupanca.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\obj\Debug\P10-CalculadoraPoupanca.exe
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\obj\Debug\P10-CalculadoraPoupanca.pdb
+C:\Cursos Alura\AprendendoCSharp\P10-CalculadoraPoupanca\obj\Debug\P10-CalculadoraPoupanca.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\bin\Debug\netcoreapp3.1\ListaOrdenavel.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\bin\Debug\netcoreapp3.1\ListaOrdenavel.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\bin\Debug\netcoreapp3.1\ListaOrdenavel.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\bin\Debug\netcoreapp3.1\ListaOrdenavel.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\bin\Debug\netcoreapp3.1\ListaOrdenavel.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\bin\Debug\netcoreapp3.1\ListaOrdenavel.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte11\ListaOrdenavel\ListaOrdenavel\obj\Debug\netcoreapp3.1\ListaOrdenavel.genruntimeconfig.cache

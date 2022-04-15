@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.Net.Sdk.Web">
+	<PropertyGroup>
+		<TargetFramework>netscoreapp2.2</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.App"/>
+	</ItemGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include="..\biblioteca\FinancasWeb.csproj"/>
+	</ItemGroup>
+	
+</Project>

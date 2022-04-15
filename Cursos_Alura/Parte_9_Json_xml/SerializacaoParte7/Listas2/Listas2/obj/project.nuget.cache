@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1IsgpPPtEleZJSRDTAZ2dzCpavvXfLl0wth4Np8dayVu999Hsj8Sp147Px0IVRvTDe3vzxsRnd12xW58r2pQVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos_Alura\\Parte_9_Json_xml\\SerializacaoParte7\\Listas2\\Listas2\\Listas2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

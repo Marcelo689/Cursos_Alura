@@ -1,0 +1,12 @@
+C:\Cursos Alura\01-ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe.config
+C:\Cursos Alura\01-ByteBank\02-ByteBank\bin\Debug\02-ByteBank.exe
+C:\Cursos Alura\01-ByteBank\02-ByteBank\bin\Debug\02-ByteBank.pdb
+C:\Cursos Alura\01-ByteBank\02-ByteBank\bin\Debug\01-ByteBank.exe
+C:\Cursos Alura\01-ByteBank\02-ByteBank\bin\Debug\01-ByteBank.pdb
+C:\Cursos Alura\01-ByteBank\02-ByteBank\bin\Debug\01-ByteBank.exe.config
+C:\Cursos Alura\01-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.AssemblyReference.cache
+C:\Cursos Alura\01-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\01-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\01-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.csproj.CopyComplete
+C:\Cursos Alura\01-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.exe
+C:\Cursos Alura\01-ByteBank\02-ByteBank\obj\Debug\02-ByteBank.pdb

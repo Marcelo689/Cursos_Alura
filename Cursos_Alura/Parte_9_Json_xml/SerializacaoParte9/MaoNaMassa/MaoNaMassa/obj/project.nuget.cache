@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cEhVBpSfM0FckSHIJm8kx6r+0Ddc90wKAIG7jBBtUxSTvC2ofsnYgLgEPwKXa4t4iewaRusvLYYxuPlRxD0zTw==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos_Alura\\Parte_9_Json_xml\\SerializacaoParte9\\MaoNaMassa\\MaoNaMassa\\MaoNaMassa.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}

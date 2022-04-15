@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "096d3376-fe84-432c-b5ba-c8a3a6d8ca52": {
+      "ProjectGuid": "096d3376-fe84-432c-b5ba-c8a3a6d8ca52",
+      "DisplayName": "ByteBank",
+      "ColorIndex": 0
+    },
+    "56062835-c26b-44be-ab39-0de3270643f2": {
+      "ProjectGuid": "56062835-c26b-44be-ab39-0de3270643f2",
+      "DisplayName": "ClassesAbstratas",
+      "ColorIndex": 1
+    },
+    "ec2726c6-1734-483f-876c-9cabfe89b13d": {
+      "ProjectGuid": "ec2726c6-1734-483f-876c-9cabfe89b13d",
+      "DisplayName": "Exemplos",
+      "ColorIndex": 2
+    },
+    "df128be0-4154-4548-a2ba-0580fca9f244": {
+      "ProjectGuid": "df128be0-4154-4548-a2ba-0580fca9f244",
+      "DisplayName": "IgorExemploAtividade",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

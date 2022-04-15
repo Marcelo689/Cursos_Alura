@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte6\Arrays\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

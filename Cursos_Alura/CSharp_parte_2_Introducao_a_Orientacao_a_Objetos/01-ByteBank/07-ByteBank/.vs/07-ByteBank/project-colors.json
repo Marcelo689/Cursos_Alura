@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "be8dd52c-08b0-455f-8ad0-407d767d0efd": {
+      "ProjectGuid": "be8dd52c-08b0-455f-8ad0-407d767d0efd",
+      "DisplayName": "07-ByteBank",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

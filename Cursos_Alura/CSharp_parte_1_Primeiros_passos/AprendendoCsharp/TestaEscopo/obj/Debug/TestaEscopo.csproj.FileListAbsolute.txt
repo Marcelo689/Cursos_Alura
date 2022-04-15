@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\bin\Debug\TestaEscopo.exe.config
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\bin\Debug\TestaEscopo.exe
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\bin\Debug\TestaEscopo.pdb
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.exe
+C:\Cursos Alura\AprendendoCSharp\TestaEscopo\obj\Debug\TestaEscopo.pdb

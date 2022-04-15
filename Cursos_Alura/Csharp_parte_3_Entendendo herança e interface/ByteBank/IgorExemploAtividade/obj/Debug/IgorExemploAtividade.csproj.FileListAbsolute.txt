@@ -1,0 +1,7 @@
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\bin\Debug\IgorExemploAtividade.exe.config
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\bin\Debug\IgorExemploAtividade.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\bin\Debug\IgorExemploAtividade.pdb
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\obj\Debug\IgorExemploAtividade.csproj.SuggestedBindingRedirects.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\obj\Debug\IgorExemploAtividade.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\obj\Debug\IgorExemploAtividade.exe
+C:\Cursos_Alura\Csharp_parte_3_Entendendo herança e interface\ByteBank\IgorExemploAtividade\obj\Debug\IgorExemploAtividade.pdb

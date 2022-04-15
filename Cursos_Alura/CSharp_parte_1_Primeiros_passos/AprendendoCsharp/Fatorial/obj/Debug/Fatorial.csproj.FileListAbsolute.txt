@@ -1,0 +1,7 @@
+C:\Cursos Alura\AprendendoCSharp\Fatorial\bin\Debug\Fatorial.exe.config
+C:\Cursos Alura\AprendendoCSharp\Fatorial\bin\Debug\Fatorial.exe
+C:\Cursos Alura\AprendendoCSharp\Fatorial\bin\Debug\Fatorial.pdb
+C:\Cursos Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.exe
+C:\Cursos Alura\AprendendoCSharp\Fatorial\obj\Debug\Fatorial.pdb

@@ -1,0 +1,4 @@
+FROM mcr.miscrosoft.com/dotnet/core/sdk:2.2
+COPY .Financas
+RUN dotnet publish "Financas/biblioteca/FinancasWeb.csproj" -o /app -c Release
+ENTRYPOINT ["dotnet", "/app/FinancasWeb.dll"]

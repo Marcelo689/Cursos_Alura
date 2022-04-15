@@ -1,0 +1,8 @@
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe.config
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.exe
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\bin\Debug\9-Escopo.pdb
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.AssemblyReference.cache
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.exe
+C:\Cursos Alura\AprendendoCSharp\9-Escopo\obj\Debug\9-Escopo.pdb

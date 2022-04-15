@@ -1,0 +1,16 @@
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.exe
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.deps.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.runtimeconfig.dev.json
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.AssemblyInfo.cs
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.csproj.CopyComplete
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.dll
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.pdb
+C:\Cursos_Alura\Parte_9_Json_xml\SerializacaoParte5\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp3.1\ConsoleApp.genruntimeconfig.cache

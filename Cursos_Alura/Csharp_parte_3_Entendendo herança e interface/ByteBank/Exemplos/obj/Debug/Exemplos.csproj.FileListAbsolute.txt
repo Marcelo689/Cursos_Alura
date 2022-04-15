@@ -1,0 +1,6 @@
+F:\CShrap parte 3\ByteBank\Exemplos\bin\Debug\Exemplos.exe.config
+F:\CShrap parte 3\ByteBank\Exemplos\bin\Debug\Exemplos.exe
+F:\CShrap parte 3\ByteBank\Exemplos\bin\Debug\Exemplos.pdb
+F:\CShrap parte 3\ByteBank\Exemplos\obj\Debug\Exemplos.csproj.CoreCompileInputs.cache
+F:\CShrap parte 3\ByteBank\Exemplos\obj\Debug\Exemplos.exe
+F:\CShrap parte 3\ByteBank\Exemplos\obj\Debug\Exemplos.pdb

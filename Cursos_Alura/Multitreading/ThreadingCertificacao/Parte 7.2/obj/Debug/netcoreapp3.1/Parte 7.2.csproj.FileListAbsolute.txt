@@ -1,0 +1,14 @@
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\bin\Debug\netcoreapp3.1\Parte 7.2.exe
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\bin\Debug\netcoreapp3.1\Parte 7.2.deps.json
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\bin\Debug\netcoreapp3.1\Parte 7.2.runtimeconfig.json
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\bin\Debug\netcoreapp3.1\Parte 7.2.runtimeconfig.dev.json
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\bin\Debug\netcoreapp3.1\Parte 7.2.dll
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\bin\Debug\netcoreapp3.1\Parte 7.2.pdb
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.csproj.AssemblyReference.cache
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.AssemblyInfoInputs.cache
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.AssemblyInfo.cs
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.csproj.CoreCompileInputs.cache
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.dll
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.pdb
+E:\Multitreading\ThreadingCertificacao\Parte 7.2\obj\Debug\netcoreapp3.1\Parte 7.2.genruntimeconfig.cache

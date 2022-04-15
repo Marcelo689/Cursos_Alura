@@ -1,0 +1,7 @@
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe.config
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.exe
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\bin\Debug\CriandoVariaveis.pdb
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.SuggestedBindingRedirects.cache
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.csproj.CoreCompileInputs.cache
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.exe
+C:\Cursos Alura\CriandoVariaveis\CriandoVariaveis\obj\Debug\CriandoVariaveis.pdb

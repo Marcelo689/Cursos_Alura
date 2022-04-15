@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2675c8bb-f47d-498e-a71e-92c1e0e4a156": {
+      "ProjectGuid": "2675c8bb-f47d-498e-a71e-92c1e0e4a156",
+      "DisplayName": "1-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "7b9f2fdf-8b8b-4cad-897e-0cd2f28bdaff": {
+      "ProjectGuid": "7b9f2fdf-8b8b-4cad-897e-0cd2f28bdaff",
+      "DisplayName": "2-DeclarandoVariaveis",
+      "ColorIndex": 1
+    },
+    "f537f855-1e9b-492f-9969-f531bade2a6c": {
+      "ProjectGuid": "f537f855-1e9b-492f-9969-f531bade2a6c",
+      "DisplayName": "3-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "abd442c3-8ff0-4bbf-97d0-9af80f3c0f7c": {
+      "ProjectGuid": "abd442c3-8ff0-4bbf-97d0-9af80f3c0f7c",
+      "DisplayName": "TestaPontoFlutuante",
+      "ColorIndex": 3
+    },
+    "2e08b0ac-0234-45b6-b364-569f4e281259": {
+      "ProjectGuid": "2e08b0ac-0234-45b6-b364-569f4e281259",
+      "DisplayName": "4-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 4
+    },
+    "f708bce6-493f-485c-99df-507c421e6a48": {
+      "ProjectGuid": "f708bce6-493f-485c-99df-507c421e6a48",
+      "DisplayName": "ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 5
+    },
+    "1067845c-d0a5-4648-8410-055bf2ba2044": {
+      "ProjectGuid": "1067845c-d0a5-4648-8410-055bf2ba2044",
+      "DisplayName": "5-CaracteresTexto",
+      "ColorIndex": 6
+    },
+    "647ac6a1-80d6-49ed-9f16-140e42c63a9f": {
+      "ProjectGuid": "647ac6a1-80d6-49ed-9f16-140e42c63a9f",
+      "DisplayName": "PraticandoTexto",
+      "ColorIndex": 7
+    },
+    "462c2343-d6fe-4e2b-8665-884eb67457fc": {
+      "ProjectGuid": "462c2343-d6fe-4e2b-8665-884eb67457fc",
+      "DisplayName": "6-AtribuirVariaveis",
+      "ColorIndex": 8
+    },
+    "38fdeb57-5bb8-4d13-a550-a7a2c9b5c8b2": {
+      "ProjectGuid": "38fdeb57-5bb8-4d13-a550-a7a2c9b5c8b2",
+      "DisplayName": "7-Condicionais",
+      "ColorIndex": 9
+    },
+    "874c51c2-5291-43b2-b88d-b17dd7bb22b5": {
+      "ProjectGuid": "874c51c2-5291-43b2-b88d-b17dd7bb22b5",
+      "DisplayName": "PraticandoCondicionais",
+      "ColorIndex": 10
+    },
+    "8773d057-e80c-4e50-bc77-66dae30e00d8": {
+      "ProjectGuid": "8773d057-e80c-4e50-bc77-66dae30e00d8",
+      "DisplayName": "8-Booleanos",
+      "ColorIndex": 11
+    },
+    "98fc1f17-726c-4f2b-9ced-2047a894924e": {
+      "ProjectGuid": "98fc1f17-726c-4f2b-9ced-2047a894924e",
+      "DisplayName": "9-Escopo",
+      "ColorIndex": 12
+    },
+    "59d42c1c-e495-43d2-bcb0-ee0b501abf44": {
+      "ProjectGuid": "59d42c1c-e495-43d2-bcb0-ee0b501abf44",
+      "DisplayName": "TestaCondicional2",
+      "ColorIndex": 13
+    },
+    "33dc2460-b5bb-4da7-a395-5b675bb4af03": {
+      "ProjectGuid": "33dc2460-b5bb-4da7-a395-5b675bb4af03",
+      "DisplayName": "TestaEscopo",
+      "ColorIndex": 14
+    },
+    "d50c9e6d-ba8e-4303-97f8-a530a3548f93": {
+      "ProjectGuid": "d50c9e6d-ba8e-4303-97f8-a530a3548f93",
+      "DisplayName": "P10-CalculadoraPoupanca",
+      "ColorIndex": 15
+    },
+    "b0ba0277-7e22-4190-9d1c-c62cc24f7bdb": {
+      "ProjectGuid": "b0ba0277-7e22-4190-9d1c-c62cc24f7bdb",
+      "DisplayName": "P11-CalculaPoupanca2",
+      "ColorIndex": 0
+    },
+    "c2f99a81-f61a-47f2-8cc0-78eb4bf9f631": {
+      "ProjectGuid": "c2f99a81-f61a-47f2-8cc0-78eb4bf9f631",
+      "DisplayName": "P12-CalculaInvestimentoLongoPrazo",
+      "ColorIndex": 1
+    },
+    "6b77b1ae-0c75-4e31-8092-4a5c70a7a9cf": {
+      "ProjectGuid": "6b77b1ae-0c75-4e31-8092-4a5c70a7a9cf",
+      "DisplayName": "P13-ForEncadeado",
+      "ColorIndex": 2
+    },
+    "7d082f1d-2a68-4ab8-a51d-7b49c2ed12bb": {
+      "ProjectGuid": "7d082f1d-2a68-4ab8-a51d-7b49c2ed12bb",
+      "DisplayName": "LacoRepeticaoWhile",
+      "ColorIndex": 3
+    },
+    "852119d2-c945-4eff-b715-340841a2ab08": {
+      "ProjectGuid": "852119d2-c945-4eff-b715-340841a2ab08",
+      "DisplayName": "LacoRepeticaoFor",
+      "ColorIndex": 4
+    },
+    "adb2f20b-fd9a-42b6-b4fc-767fbfc09459": {
+      "ProjectGuid": "adb2f20b-fd9a-42b6-b4fc-767fbfc09459",
+      "DisplayName": "FernandoContadorLinha",
+      "ColorIndex": 5
+    },
+    "1c15b0c7-ae3f-473d-b46f-2bb6c9916859": {
+      "ProjectGuid": "1c15b0c7-ae3f-473d-b46f-2bb6c9916859",
+      "DisplayName": "ForTabuada",
+      "ColorIndex": 6
+    },
+    "4ab79f6f-a0df-4ce2-aa1d-7318b7a915d0": {
+      "ProjectGuid": "4ab79f6f-a0df-4ce2-aa1d-7318b7a915d0",
+      "DisplayName": "Fatorial",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}
