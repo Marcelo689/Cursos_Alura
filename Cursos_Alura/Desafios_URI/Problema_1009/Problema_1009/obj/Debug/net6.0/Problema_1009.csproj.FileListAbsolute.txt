@@ -1,0 +1,15 @@
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\bin\Debug\net6.0\Problema_1009.exe
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\bin\Debug\net6.0\Problema_1009.deps.json
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\bin\Debug\net6.0\Problema_1009.runtimeconfig.json
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\bin\Debug\net6.0\Problema_1009.dll
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\bin\Debug\net6.0\Problema_1009.pdb
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.AssemblyInfo.cs
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.dll
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\refint\Problema_1009.dll
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.pdb
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\Problema_1009.genruntimeconfig.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1009\obj\Debug\net6.0\ref\Problema_1009.dll
