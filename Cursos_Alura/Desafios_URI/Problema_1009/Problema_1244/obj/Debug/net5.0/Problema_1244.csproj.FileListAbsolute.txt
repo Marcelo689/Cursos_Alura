@@ -1,0 +1,16 @@
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.AssemblyInfo.cs
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\bin\Debug\net5.0\Problema_1244.exe
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\bin\Debug\net5.0\Problema_1244.deps.json
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\bin\Debug\net5.0\Problema_1244.runtimeconfig.json
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\bin\Debug\net5.0\Problema_1244.runtimeconfig.dev.json
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\bin\Debug\net5.0\Problema_1244.dll
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\bin\Debug\net5.0\Problema_1244.pdb
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.dll
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\refint\Problema_1244.dll
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.pdb
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\Problema_1244.genruntimeconfig.cache
+C:\Cursos_Alura\Desafios_URI\Problema_1009\Problema_1244\obj\Debug\net5.0\ref\Problema_1244.dll
