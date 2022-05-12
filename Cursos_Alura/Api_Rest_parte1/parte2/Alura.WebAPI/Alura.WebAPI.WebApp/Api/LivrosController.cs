@@ -5,6 +5,8 @@ using System.Linq;
 
 namespace Alura.WebAPI.WebApp.Api
 {
+    [ApiController]
+    [Route("[controller]")]
     public class LivrosController : Controller
     {
         private readonly IRepository<Livro> _repo;
@@ -13,12 +15,18 @@ namespace Alura.WebAPI.WebApp.Api
         {
             _repo = repository;
         }
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult Recuperar(int id)
         {
             var model = _repo.Find(id);
             if(model == null) return NotFound();
-            return Json(model.ToModel());
+            return Ok(model.ToModel());
+        }
+        [HttpGet]
+        public IActionResult ListaDeLivros(int id)
+        {
+            var lista = _repo.All.Select( l => l.ToModel()).ToList();
+            return Ok(lista);
         }
         [HttpPost]
         public IActionResult Incluir([FromBody] LivroUpload model)
@@ -55,7 +63,7 @@ namespace Alura.WebAPI.WebApp.Api
             return BadRequest();
         }
 
-        [HttpPost]
+        [HttpDelete("{id}")]
         public IActionResult Remover(int id)
         {
             var model = _repo.Find(id);
