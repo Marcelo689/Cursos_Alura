@@ -1,0 +1,34 @@
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.deps.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.dev.json
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csprojAssemblyReference.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CoreCompileInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.AssemblyInfoInputs.cache
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.AssemblyInfo.cs
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CopyComplete
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
+C:\Users\dpcos\Documents\Visual Studio 2017\Projetos\Teste\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.deps.json
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.json
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.runtimeconfig.dev.json
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.AssemblyInfo.cs
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.csproj.CopyComplete
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.dll
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.pdb
+C:\Cursos_Alura\Api_Rest_parte3\Alura.WebAPI\Alura.ListaLeitura.GeradorRandomicoLivros\obj\Debug\netcoreapp2.1\Alura.ListaLeitura.GeradorRandomicoLivros.genruntimeconfig.cache
