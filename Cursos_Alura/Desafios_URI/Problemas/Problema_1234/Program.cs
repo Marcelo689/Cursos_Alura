@@ -1,38 +1,76 @@
 ﻿using System;
+using System.Text;
 
 namespace Problema_1234
 {
     class Program
     {
-        static void Main(string[] args)
+        static void RafaelCodigo()
         {
-            string texto = Console.ReadLine();
-            //if(texto.Length >=1 && texto.Length <= 50)
-            Console.WriteLine(SentecaDancante(texto));
+
+            string entrada;
+            StringBuilder saida = new StringBuilder();
+            bool mudar;
+            while ((entrada = Console.ReadLine()) != null)
+            {
+                saida.Clear();
+                mudar = true;
+                foreach (var c in entrada)
+                {
+                    if (!c.Equals(' '))
+                    {
+                        saida.Append(mudar ? char.ToUpper(c) : char.ToLower(c));
+                        mudar = !mudar;
+                    }
+                    else
+                    {
+                        saida.Append(c);
+                    }
+                }
+                Console.WriteLine(saida);
+            }
+
         }
 
-        public static string SentecaDancante(string entrada)
+
+
+        static void Main(string[] args)
         {
-            string saida = "";
+            //RafaelCodigo();
+            //if(texto.Length >=1 && texto.Length <= 50)
+            SentecaDancante();
+        }
+
+        public static void SentecaDancante()
+        {
+            string entrada = "";
+            StringBuilder saida = new StringBuilder();
             bool UltimaLetraMaiuscula = true;
-            for (int i = 0; i <= entrada.Length - 1; i++)
+            while ((entrada = Console.ReadLine()) != null)
             {
-
-                if (entrada[i] == ' ')
+                saida.Clear();
+                for (int i = 0; i < entrada.Length; i++)
                 {
-                    saida += entrada[i];
-                    continue;
-                }
-                if (!char.IsLetter(entrada[i]))
-                    continue;
-                else UltimaLetraMaiuscula = !UltimaLetraMaiuscula;
 
-                if (UltimaLetraMaiuscula)
-                    saida += entrada[i].ToString().ToLower();
-                else
-                    saida += entrada[i].ToString().ToUpper();
+                    if (entrada[i] == ' ')
+                    {
+                        saida.Append(entrada[i]);
+                        continue;
+                    }
+                    if (!char.IsLetter(entrada[i]))
+                        continue;
+                    else UltimaLetraMaiuscula = !UltimaLetraMaiuscula;
+
+                    if (UltimaLetraMaiuscula)
+                        saida.Append(entrada[i].ToString().ToLower());
+                    else
+                        saida.Append(entrada[i].ToString().ToUpper());
+
+                }
+
+                Console.WriteLine(saida);
             }
-            return saida;
+
         }
 
         //static string RemoveEspacos(string entrada)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1013\\Problema_1013.csproj": {}
+    "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1013\\Problema_1013.csproj": {}
   },
   "projects": {
-    "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1013\\Problema_1013.csproj": {
+    "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1013\\Problema_1013.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1013\\Problema_1013.csproj",
+        "projectUniqueName": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1013\\Problema_1013.csproj",
         "projectName": "Problema_1013",
-        "projectPath": "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1013\\Problema_1013.csproj",
+        "projectPath": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1013\\Problema_1013.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1013\\obj\\",
+        "outputPath": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1013\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

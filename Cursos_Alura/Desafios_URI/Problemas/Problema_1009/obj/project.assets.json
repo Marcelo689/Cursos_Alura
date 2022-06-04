@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1009\\Problema_1009.csproj",
+      "projectUniqueName": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1009\\Problema_1009.csproj",
       "projectName": "Problema_1009",
-      "projectPath": "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1009\\Problema_1009.csproj",
+      "projectPath": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1009\\Problema_1009.csproj",
       "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-      "outputPath": "C:\\Cursos_Alura\\Desafios_URI\\Problema_1009\\Problema_1009\\obj\\",
+      "outputPath": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1009\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

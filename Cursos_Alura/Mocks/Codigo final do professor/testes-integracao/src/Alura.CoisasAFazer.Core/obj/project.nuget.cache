@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "M9paSHA0fpsiBlnICByWXpe6yNYHB8Ha9HKGrnIzkxAOBXF1gNPpOzMqG4Zz7vAOi2L7TWX5tEN9271oNP1+kQ==",
+  "success": true,
+  "projectFilePath": "C:\\Cursos_Alura\\Mocks\\Codigo final do professor\\testes-integracao\\src\\Alura.CoisasAFazer.Core\\Alura.CoisasAFazer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marce\\.nuget\\packages\\mediatr\\7.0.0\\mediatr.7.0.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marce\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

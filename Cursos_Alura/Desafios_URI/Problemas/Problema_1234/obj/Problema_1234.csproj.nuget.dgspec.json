@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Problema_1251\\Problema_1234\\Problema_1234.csproj": {}
+    "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1234\\Problema_1234.csproj": {}
   },
   "projects": {
-    "D:\\Problema_1251\\Problema_1234\\Problema_1234.csproj": {
+    "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1234\\Problema_1234.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Problema_1251\\Problema_1234\\Problema_1234.csproj",
+        "projectUniqueName": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1234\\Problema_1234.csproj",
         "projectName": "Problema_1234",
-        "projectPath": "D:\\Problema_1251\\Problema_1234\\Problema_1234.csproj",
+        "projectPath": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1234\\Problema_1234.csproj",
         "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
-        "outputPath": "D:\\Problema_1251\\Problema_1234\\obj\\",
+        "outputPath": "C:\\Cursos_Alura\\Desafios_URI\\Problemas\\Problema_1234\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
