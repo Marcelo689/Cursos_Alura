@@ -1,0 +1,58 @@
+1 - O que é um ataque DDoS e como posso me proteger?
+DDos é fazer inumeras requisições a um servidor fazendo com que eventualmente ele fique indisponivel.
+Para se proteger é possivel investir em largura de banda, ter uma conexão reserva, ter validações contra intruso.
+
+2 - Por que o firewall é uma ferramenta muito importante de proteção:
+Porque o firewall serve para impedir conexões de dispositivos indesejados a rede.
+
+3 - Fazendo o download do git e depois dando git init no terminal no caminho do projeto desejado fazer o git add
+passando os arquivos que deseja e logo depois fazendo o commit e por fim um push, caso for o primeiro push é necessario adicionar a origem
+e fazer o login.
+
+4- Descreva sobre os ganhos de se utilizar a funcionalidade da branch do git.
+Criar um novo branch é util quando se quer usar o mesmo projeto com uma implementação ramificada gerando dois projetos em paralelo.
+
+5. Explique a diferença entre criar o repositório na nuvem e iniciar o repositório a partir de um código existente local.
+Criar um repositorio na nuvem ele ficara salvo em um servidor diferente de sua maquina e o repositorio local ele existe na sua máquina.
+
+6. Qual a diferença entre Git e GitHub?
+Git é um gerenciador de repositorios e controle de versão de arquivos para códigos-fonte e desenvolvimento colaborativo.
+Github é uma plataforma onde pode hospedar seus projetos e repositorios de forma online, onde é possivel vizualizar códigos de outros programadores.
+
+7. Quais as principais diferenças entre o modelo ágil e o waterfall (modelo em
+cascata)?
+O modelo ágil tem foco na satisfação do cliente envolvendo ele durante o projeto.
+O modelo Cascata é um processo que não precisa que os clientes participem.
+
+
+8. Quais são as 3 perguntas que devem ser respondidas na Daily?
+“O que eu fiz ontem que ajudou o Time de Desenvolvimento a entender a meta em questão?”;
+ “O que eu farei hoje para ajudar o Time de Desenvolvimento atender a meta em questão?”;
+ e “Eu vejo algum obstáculo que impeça a mim ou o Time de Desenvolvimento no atendimento
+ da meta em questão?”
+
+9. Qual o intuito das seguintes cerimônias?
+• Daily
+ - é discutido o que já foi feito e o que está impedindo o progresso.
+• Planning
+ - é Passar o que o proprietario do produto quer para o time de desenvolvimento.
+• Refinamento
+  - é detalhar, entender mais profundamente,estimar, priorizar.
+• Review
+  - validar entregas e verificar se todos requisitos foram cumpridos.
+• Retrospectiva
+  - Procurar pontos de melhoria entre as sprints para ter mais eficiência no futuro.
+
+10. O que é a estimativa na metodologia ágil?
+  Tem como objetivo saber o custo de tudo e medir a velocidade da equipe, para desenvolver previsões e roteiros.
+
+
+11. O que é o protocolo HTTP? Qual a diferença entre HTTP e HTTPS?
+  HTTP :O protocolo tem como função disponibilizar link de acesso para usuarios para que navegadores e servidores se comuniquem.
+  Diferença entre um e o outro : O Http é focado na entrega de dados, se preocupando menos como a informação é transmitida
+  tornando-o vunerável para ser invadido ou alterado, mas o HTTPS é mais seguro pois costuma ser oferecido pelo certificado
+  SSL fornecendo uma conexão criptografada entre servidor e navegador garantindo mais segurança.
+
+12. Cite 4 métodos HTTP.
+  GET , POST, PUT, DELETE ...
+	

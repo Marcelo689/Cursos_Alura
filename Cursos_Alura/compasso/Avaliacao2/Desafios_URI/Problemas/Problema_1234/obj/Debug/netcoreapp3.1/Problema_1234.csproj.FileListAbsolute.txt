@@ -1,0 +1,14 @@
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\bin\Debug\netcoreapp3.1\Problema_1234.exe
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\bin\Debug\netcoreapp3.1\Problema_1234.deps.json
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\bin\Debug\netcoreapp3.1\Problema_1234.runtimeconfig.json
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\bin\Debug\netcoreapp3.1\Problema_1234.runtimeconfig.dev.json
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\bin\Debug\netcoreapp3.1\Problema_1234.dll
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\bin\Debug\netcoreapp3.1\Problema_1234.pdb
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.csproj.AssemblyReference.cache
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.AssemblyInfoInputs.cache
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.AssemblyInfo.cs
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.csproj.CoreCompileInputs.cache
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.dll
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.pdb
+C:\Cursos_Alura\Desafios_URI\Problemas\Problema_1234\obj\Debug\netcoreapp3.1\Problema_1234.genruntimeconfig.cache

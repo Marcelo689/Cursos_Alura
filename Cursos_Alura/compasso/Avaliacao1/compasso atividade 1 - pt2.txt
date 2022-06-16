@@ -1,0 +1,70 @@
+13.Cite um princípio do manifesto ágil.
+  “Nossa maior prioridade é satisfazer o cliente através da entrega contínua e adiantada de software com valor agregado”
+
+14. Qual o papel do Scrum Master em relação aos impedimentos?
+  Ajudar a melhorar ferramentas e práticas usadas pela equipe para garantir a eficiência da equipe.
+
+15. O que ocorre na resposta de um request HTTP get com um header Accept:application/json?
+  retorna o codigo 202.
+
+16.O que é o backlog da sprint?
+   Conjunto de itens do produto selecionados para sprint, lista de tarefas que a equipe precisa realizar.
+
+17.Cite dois benefícios ao utilizar git como sistema de controle de versão.
+ 1º - Manter uma versão estável do seu projeto online para ter acesso em qualquer dispositivo, podendo clona-lo.
+ 2º - Poder trabalhar com uma equipe em um mesmo projeto cada um contribuindo simultaneamente em partes diferentes do software.
+
+18.No git, qual a diferença entre o repositório e a cópia de trabalho?
+  Repositorio é quando se tem acesso a um projeto proprio que foi criado localmente, e copia de trabalho é quando se tem um "clone" do projeto.
+
+19.Comente um pouco sobre o WIP e sobre os benefícios que ele pode trazer ao seu
+projeto.
+  WIP - é o número de tarefas e atividades que possui e o fluxo de trabalho a qualquer momento.
+Beneficios: Previnir que o processo do trabalho fique sobrecarregado, ajudar a localizar problemas e aliviar gargalos.
+
+20.Quais as responsabilidades de um Product Owner e de um Scrum Master?
+Product Owner 
+	- é a pessoal responsável para determinar as funcionalidades e requisitos de tudo
+que é necessário para o produto.
+Scrum Master -
+	- Verifica todos no time conseguem entregar as tarefas que possuem para não pegar mais 
+do que conseguem entregar.
+
+21.Qual a melhor estratégia para resolver um conflito?
+  Identificar o problema para torna-lo em uma oportunidade para se aprimorar.
+  Cortar o problema em pedaços menores pensar como se tentasse explicar para outra pessoa
+  isso tornará ele tão simples que fará com que você perceba o que causa sua dúvida.
+
+22.Como funciona o modelo cliente e servidor e suas diferenças para o modelo peerto-peer?
+  Modelo peer to peer é quando individuos se conectem entre si e troquem produtos e serviços,
+  mas não envolve a empresa.
+  Modelo cliente e servidor é quando um servidor disponibiliza serviço a um ou mais clientes.
+
+23.Quais os tipos de relacionamentos em um banco de dados SQL?
+  Relacionamentos de : um para um, um para vários, vários para vários.
+
+24. O que são entidades fortes e fracas?
+   Entidades fracas são aquelas que não possuem chave primária, as que possuem são denominadas
+fortes.
+
+25. Quais as principais diferenças entre um banco de dados SQL e NoSQL
+   No sql os dados são guardados em tabelas, já o NoSql usa Schema usa uma chave de valor que é utilizada para
+recuperar valores, conjuntos de colunas ou documentos.
+
+26. O que é o product backlog e quem, dentro do time Scrum, é o responsável por
+criá-lo?
+ 	O Product Owner é o responsável e o backlog é todas as funcionalidades e requisitos que o 
+produto precisa.
+
+27. Quais as principais vantagens de se ter métricas ao trabalhar com Kanban?
+  Promove ambiente de colaboração, cria independência, melhora a visualização de problemas.
+
+28. Comente sobre o media type do HTTP.
+  conhecido como MIME é utilizado para indicar o tipo de arquivo, como json, csv ...
+
+29. O que são tuplas no modelo relacional?
+  tupla é uma linha da tabela, um registro no banco.
+
+30. Fale um pouco sobre o handshake do HTTP.
+  Handshake é uma solicitação do servidor para sincronizar os números da sequência.
+Para iniciar a conexão cliente e servidor devem sincronizar os npumeros de sequência uns dos outros.

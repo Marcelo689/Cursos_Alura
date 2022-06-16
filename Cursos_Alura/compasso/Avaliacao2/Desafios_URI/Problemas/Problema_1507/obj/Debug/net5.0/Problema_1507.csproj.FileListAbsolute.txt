@@ -1,0 +1,16 @@
+D:\Problema_1251\Problema_1507\bin\Debug\net5.0\Problema_1507.exe
+D:\Problema_1251\Problema_1507\bin\Debug\net5.0\Problema_1507.deps.json
+D:\Problema_1251\Problema_1507\bin\Debug\net5.0\Problema_1507.runtimeconfig.json
+D:\Problema_1251\Problema_1507\bin\Debug\net5.0\Problema_1507.runtimeconfig.dev.json
+D:\Problema_1251\Problema_1507\bin\Debug\net5.0\Problema_1507.dll
+D:\Problema_1251\Problema_1507\bin\Debug\net5.0\Problema_1507.pdb
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.csproj.AssemblyReference.cache
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.GeneratedMSBuildEditorConfig.editorconfig
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.AssemblyInfoInputs.cache
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.AssemblyInfo.cs
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.csproj.CoreCompileInputs.cache
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.dll
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\refint\Problema_1507.dll
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.pdb
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\Problema_1507.genruntimeconfig.cache
+D:\Problema_1251\Problema_1507\obj\Debug\net5.0\ref\Problema_1507.dll
