@@ -84,20 +84,9 @@ namespace CidadeCliente.Controllers
                 return false;
         }
 
-        public bool ClienteExiste(Cliente cliente)
+        public Cliente ClienteExiste(Cliente cliente)
         {
-            var contagem = dbClientes.RetornarTudo().Where(e =>
-                e.Nome == cliente.Nome &&
-                e.Logradouro == cliente.Logradouro &&
-                e.DataNascimento == cliente.DataNascimento &&
-                e.Cep == cliente.Cep &&
-                e.Bairro == cliente.Bairro
-            ).Count();
-
-            if (contagem != 0)
-                return true;
-            else
-                return false;
+            return dbClientes.SelecionarPorId(cliente.Id);
         }
 
        
@@ -109,7 +98,6 @@ namespace CidadeCliente.Controllers
             if (!ConferirLogin())
               return NotFound("Não permitido sem logar");
             
-            var mensagem = "Cliente e Cidade Registrados";
             var retorno = dbCidades.RetornaCepDados(cliente.Cep);
             if (retorno.localidade == null)
             {
@@ -119,36 +107,28 @@ namespace CidadeCliente.Controllers
                 
             cliente.Bairro = retorno.bairro;
             cliente.Logradouro = retorno.logradouro;
-
-            var existeCliente = ClienteExiste(cliente);
-            if(!existeCliente)
-                cliente = dbClientes.Cadastrar(cliente);
-            else
-                cliente = dbClientes.RetornarTudo().Where(e =>
+            var mensagem = "";
+            var entidade = dbClientes.RetornarTudo().Where(e =>
                 e.Nome == cliente.Nome &&
-                e.Logradouro == cliente.Logradouro &&
-                e.DataNascimento == cliente.DataNascimento &&
-                e.Cep == cliente.Cep &&
-                e.Bairro == cliente.Bairro
+                e.DataNascimento == cliente.DataNascimento 
                 ).FirstOrDefault();
+            if (entidade == null)
+                entidade = dbClientes.Cadastrar(cliente);
+            mensagem = "Cliente cadastrado \n";
             var cidade = new Cidade();
             cidade.Estado = retorno.uf;
             cidade.Nome = retorno.localidade;
-            cidade.ClienteId = cliente.Id;
+            cidade.ClienteId = entidade.Id;
 
-            bool existeCidade = CidadeExiste(cidade,cliente);
+            bool existeCidade = CidadeExiste(cidade,entidade);
             if (!existeCidade)
+            {
                 cidade = dbCidades.Cadastrar(cidade);
-            else
-                cidade = dbCidades.RetornarTudo().Where(e =>
-                 e.Nome == cliente.Nome &&
-                e.ClienteId == cliente.Id  
-                ).First();
+                mensagem += "Cidade cadastrada com sucesso";
+            }
             
-            cliente.CidadeId = cidade.Id;
-            dbClientes.Editar(cliente);
-            SalvarAuditoria(cliente.Id, 0, mensagem);
-            return Ok();
+            SalvarAuditoria(entidade.Id, 0, mensagem);
+            return Ok(mensagem);
         }
 
         [HttpDelete]
@@ -161,7 +141,7 @@ namespace CidadeCliente.Controllers
 
             dbClientes.Deletar(id);
             SalvarAuditoria(id, 0, "Cliente deletado com sucesso!");
-            return Ok();
+            return Ok("Cliente deletado com sucesso");
         }
 
         [HttpGet]
@@ -196,10 +176,20 @@ namespace CidadeCliente.Controllers
         {
             if (!ConferirLogin())
                 return NotFound("Não permitido sem logar");
+            var clienteAntigo = dbClientes.SelecionarPorId(cliente.Id);
+            if (clienteAntigo == null)
+                return NotFound("Não existe cliente com id selecionado");
 
-            dbClientes.Editar(cliente);
-            SalvarAuditoria(cliente.Id, 0, "Cliente Atualizado com sucesso!");
-            return Ok();
+            clienteAntigo.DataNascimento = cliente.DataNascimento;
+            clienteAntigo.Cep = cliente.Cep;
+            clienteAntigo.Nome = cliente.Nome;
+            clienteAntigo.Cidades = cliente.Cidades;
+            clienteAntigo.Bairro = cliente.Bairro;
+            clienteAntigo.Logradouro = cliente.Logradouro;
+            
+            dbClientes.Editar(clienteAntigo);
+            SalvarAuditoria(clienteAntigo.Id, 0, "Cliente Atualizado com sucesso!");
+            return Ok("Cliente atualizado com sucesso");
         }
 
     }

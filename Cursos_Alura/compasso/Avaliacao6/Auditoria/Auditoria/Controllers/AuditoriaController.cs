@@ -11,7 +11,6 @@ namespace Auditoria.Controllers
         DbOperacoes<Auditoria> dbOperacoesAuditoria;
         DbOperacoes<Login> dbOperacoesLogin;
         Login login;
-        static int portaCC = 44371;
         public AuditoriaController()
         {
             dbOperacoesAuditoria = new DbOperacoes<Auditoria>();

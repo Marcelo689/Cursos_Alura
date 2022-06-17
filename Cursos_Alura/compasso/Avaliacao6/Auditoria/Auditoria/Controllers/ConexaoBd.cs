@@ -9,6 +9,7 @@ namespace Auditoria
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
+            optionsBuilder.EnableSensitiveDataLogging();
             string connectionString = "Server=(localdb)\\MSSQLLocalDB;Database=Auditoria;Trusted_Connection=True;";
             optionsBuilder.UseSqlServer(connectionString);
             base.OnConfiguring(optionsBuilder);

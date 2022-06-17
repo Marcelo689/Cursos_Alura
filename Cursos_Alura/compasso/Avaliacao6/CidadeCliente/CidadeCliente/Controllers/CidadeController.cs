@@ -68,7 +68,7 @@ namespace CidadeCliente.Controllers
                 return NotFound("Não permitido sem logar");
             dbCidades.Cadastrar(cidade);
             SalvarAuditoria(0, 0, "Cidade Salva com sucesso");
-            return Ok();
+            return Ok("Cidade Cadastrada com sucesso");
         }
 
         [HttpDelete]
@@ -80,7 +80,7 @@ namespace CidadeCliente.Controllers
                 return NotFound("Não permitido sem logar");
             dbCidades.Deletar(id);
             SalvarAuditoria(0, 0, $"Cidade de id {id} Deletada com sucesso");
-            return Ok();
+            return Ok("Cidade deletada com sucesso");
         }
 
         [HttpGet]
@@ -115,9 +115,16 @@ namespace CidadeCliente.Controllers
 
             if (!ConferirLogin())
                 return NotFound("Não permitido sem logar");
-            dbCidades.Editar(cidade);
-            SalvarAuditoria(0, 0, $"Cidade de id {cidade.Id} atualizada com sucesso!");
-            return Ok();
+            var entidade = dbCidades.SelecionarPorId(cidade.Id);
+            if (entidade == null)
+                return NotFound("Não foi encontrado entidade com respectivo id");
+            entidade.Estado = cidade.Estado;
+            entidade.ClienteId = cidade.ClienteId;
+            entidade.Nome = cidade.Nome;
+
+            dbCidades.Editar(entidade);
+            SalvarAuditoria(0, 0, $"Cidade de id {entidade.Id} atualizada com sucesso!");
+            return Ok("cidade atualizada com sucesso");
         }
 
         [HttpGet]

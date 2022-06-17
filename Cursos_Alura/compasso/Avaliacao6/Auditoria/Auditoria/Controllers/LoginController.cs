@@ -8,22 +8,21 @@ namespace Auditoria.Controllers
     [Route("[controller]")]
     public class LoginController : ControllerBase
     {
-        DbOperacoes<Login> dbOperacoesLogin;
-        DbOperacoes<Auditoria> dbOperacoesAuditoria;
+        DbOperacoes<Login> bdLogin;
+        DbOperacoes<Auditoria> bdAuditoria;
         Login login;
         public LoginController()
         {
-            dbOperacoesLogin = new DbOperacoes<Login>();
-            dbOperacoesAuditoria = new DbOperacoes<Auditoria>();
-            
+            bdLogin = new DbOperacoes<Login>();
+            bdAuditoria = new DbOperacoes<Auditoria>();
         }
 
         public bool ConferirLogin()
         {
             SalvarAuditoria("Usuario acessou o sistema pela auditoria");
 
-            var loginresposnse = dbOperacoesLogin.RetornarTudo().Where(l => l.LoginAtual == true);
-            if (loginresposnse.Count() == 1)
+            var loginresposnse = bdLogin.RetornarTudo().Where(l => l.LoginAtual == true);
+            if (loginresposnse.Count() == 1 && login == null)
             {
                 login = loginresposnse.First();
                 SalvarAuditoria("Usuario Logado com sucesso");
@@ -41,22 +40,21 @@ namespace Auditoria.Controllers
         public void SalvarAuditoria(string mensagemEvento)
         {
             if (login == null)
-                login = new Login() { Id = 0 };
-               dbOperacoesAuditoria.Cadastrar(
+               bdAuditoria.Cadastrar(
                new Auditoria()
                {
                    Evento = mensagemEvento,
-                   UsuarioId = login.Id,
+                   UsuarioId = login == null ?  0 : login.Id,
                    Data = DateTime.Now
                });
         }
         public void DeslogarTodos()
         {
-            var lista = dbOperacoesLogin.RetornarTudo().FindAll(l => l.LoginAtual == true);
+            var lista = bdLogin.RetornarTudo().FindAll(l => l.LoginAtual == true);
             foreach (var item in lista)
             {
                 item.LoginAtual = false;
-                dbOperacoesLogin.Editar(item);
+                bdLogin.Editar(item);
             }
         }
 
@@ -65,7 +63,7 @@ namespace Auditoria.Controllers
         public ActionResult Logar([FromBody] Login login)
         {
             DeslogarTodos();
-            var resposta = dbOperacoesLogin.RetornarTudo().Where(l => l.Usuario == login.Usuario && login.Password == l.Password);
+            var resposta = bdLogin.RetornarTudo().Where(l => l.Usuario == login.Usuario && login.Password == l.Password);
 
             if (resposta.Count() > 0)
             { 
@@ -76,18 +74,18 @@ namespace Auditoria.Controllers
                 return NotFound("Login Não encontrado!");
             
 
-            dbOperacoesLogin.Editar(login);
-            dbOperacoesAuditoria.Cadastrar(
+            bdLogin.Editar(login);
+            bdAuditoria.Cadastrar(
             new Auditoria()
                 {
                     ClienteId = 0,
-                    ProdutoId =0,
+                    ProdutoId = 0,
                     Evento = "Usuario Logou",
                     UsuarioId = login.Id,
                     Data = DateTime.Now
                 }
             );
-            return Ok();
+            return Ok("Usuario logado com sucesso!");
         }
 
         [HttpPost]
@@ -95,9 +93,9 @@ namespace Auditoria.Controllers
         public ActionResult CadastrarLogin([FromBody] Login login)
         {
             login.LoginAtual = false;
-            dbOperacoesLogin.Cadastrar(login);
+            bdLogin.Cadastrar(login);
             SalvarAuditoria("usuario cadastrado");
-            return Ok();
+            return Ok("Usuario cadastrado com sucesso");
         }
         
         [HttpPost]
@@ -110,11 +108,11 @@ namespace Auditoria.Controllers
                 return NotFound("Usuario não logado");
             }
             else
-                login = dbOperacoesLogin.RetornarTudo().Where(l => l.LoginAtual == true).First();
+                login = bdLogin.RetornarTudo().Where(l => l.LoginAtual == true).First();
             login.LoginAtual = false;
-            dbOperacoesLogin.Editar(login);
+            bdLogin.Editar(login);
             SalvarAuditoria("Usuario Deslogou");
-            return Ok();
+            return Ok("Usuario deslogado");
         }
         
         [HttpDelete]
@@ -127,9 +125,9 @@ namespace Auditoria.Controllers
                 return NotFound("Usuario não logado");
             }
 
-            dbOperacoesLogin.Deletar(id);
+            bdLogin.Deletar(id);
             SalvarAuditoria("usuario deletado");
-            return Ok();
+            return Ok("Usuario deletado");
         }
 
         [HttpGet]
@@ -141,7 +139,7 @@ namespace Auditoria.Controllers
                 SalvarAuditoria("Alguém falhou ao selecionar login");
                 return NotFound("Usuario não logado");
             }
-            var login = dbOperacoesLogin.SelecionarPorId(id);
+            var login = bdLogin.SelecionarPorId(id);
             SalvarAuditoria("usuario cadastrado");
             return Ok(login);
         }
@@ -157,23 +155,37 @@ namespace Auditoria.Controllers
                 return NotFound(lista);
             }
             
-            lista = dbOperacoesLogin.RetornarTudo();
+            lista = bdLogin.RetornarTudo();
             SalvarAuditoria("Usuario selecionou todos logins");
             return Ok(lista);
         }
 
         [HttpPut]
         [Route("Atualizar")]
-        public ActionResult Atualizar([FromBody] Login login)
+        public ActionResult AtualizarEntidade([FromBody] Login loginBody)
         {
             if (!ConferirLogin())
             {
                 SalvarAuditoria("Alguém tentou atualizar login");
                 return NotFound("Usuario não logado");
             }
-            dbOperacoesLogin.Editar(login);
+            var retorno = bdLogin.SelecionarPorId(loginBody.Id);
+            if (retorno == null)
+                return NotFound("Não foi encontrado login com id selecionado!");
+            if (retorno.Id == login.Id)
+            {
+                login.Usuario = loginBody.Usuario;
+                login.Password = loginBody.Password;
+                bdLogin.Editar(login);
+                SalvarAuditoria("Usuario atualizou login");
+                return Ok("Usuario atualizado com sucesso!");
+            }
+
+            if (loginBody.Id == 0)
+                return NotFound("Usuario não possuia id");
+            bdLogin.Editar(loginBody);
             SalvarAuditoria("Usuario atualizou login");
-            return Ok();
+            return Ok("Usuario atualizado com sucesso!");
         }
     }
 }

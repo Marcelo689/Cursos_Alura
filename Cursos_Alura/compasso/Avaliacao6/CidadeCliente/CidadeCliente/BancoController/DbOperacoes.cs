@@ -42,6 +42,7 @@ namespace CidadeCliente
 
         public void Editar(TEntity cidadeAtualizada)
         {
+            // erro de tracking
             conexao.Set<TEntity>().Update(cidadeAtualizada);
             conexao.SaveChanges();
         }
@@ -53,7 +54,7 @@ namespace CidadeCliente
 
         public Cliente CLienteComCidades(Cliente entidade)
         {
-            var cidades = conexao.Cidade.Where(e => e.Id == entidade.CidadeId).Select(e => e.Nome).ToList();
+            var cidades = conexao.Cidade.Where(e => e.ClienteId == entidade.Id).Select(e => e.Nome).ToList();
             var cliente = conexao.Cliente.Where(e => e.Id == entidade.Id).First();
             Cliente saida = null;
             if (cidades.Count > 0)

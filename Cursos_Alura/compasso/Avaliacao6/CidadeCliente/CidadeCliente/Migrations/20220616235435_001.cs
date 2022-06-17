@@ -30,7 +30,6 @@ namespace CidadeCliente.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Nome = table.Column<string>(nullable: true),
                     DataNascimento = table.Column<DateTime>(nullable: false),
-                    CidadeId = table.Column<int>(nullable: false),
                     Cep = table.Column<int>(nullable: false),
                     Logradouro = table.Column<string>(nullable: true),
                     Bairro = table.Column<string>(nullable: true)

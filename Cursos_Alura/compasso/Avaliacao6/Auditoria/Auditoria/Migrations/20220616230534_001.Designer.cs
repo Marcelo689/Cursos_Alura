@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Auditoria.Migrations
 {
     [DbContext(typeof(ConexaoBd))]
-    [Migration("20220615201714_003")]
-    partial class _003
+    [Migration("20220616230534_001")]
+    partial class _001
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

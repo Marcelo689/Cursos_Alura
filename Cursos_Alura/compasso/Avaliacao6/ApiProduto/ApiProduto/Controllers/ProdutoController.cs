@@ -112,6 +112,7 @@ namespace ApiProduto.Controllers
             
             SalvarAuditoria(produto.IdCliente, produto.Id, mensagem);
 
+            if(!(produto.PalavrasChave == null))
             foreach (var palavra in produto.PalavrasChave)
             {
                 dbpalavra.Cadastrar(new PalavraChave()
@@ -191,7 +192,7 @@ namespace ApiProduto.Controllers
 
             dbOperacoesProduto.Deletar(id);
             SalvarAuditoria(0, id, $"Produto Deletado id {id}");
-            return Ok();
+            return Ok("Usuario deletado com sucesso");
         }
 
         [HttpGet]
@@ -236,10 +237,19 @@ namespace ApiProduto.Controllers
         {
             if (!ConferirLogin())
                 return NotFound("Não permitido sem logar");
-
-            dbOperacoesProduto.Editar(produto);
-            SalvarAuditoria(0, produto.Id, $"Produto Atualizado id {produto.Id}");
-            return Ok();
+            var produtoAntigo = dbOperacoesProduto.SelecionarPorId(produto.Id);
+            if (produtoAntigo == null)
+                return NotFound("Não foi encontrado produto com respectivo id");
+            produtoAntigo.Preco = produto.Preco;
+            produtoAntigo.PalavrasChave = produto.PalavrasChave;
+            produtoAntigo.IdCidade = produto.IdCidade;
+            produtoAntigo.IdCliente = produto.IdCliente;
+            produtoAntigo.Categoria= produto.Categoria;
+            produtoAntigo.Nome = produto.Nome;
+            
+            dbOperacoesProduto.Editar(produtoAntigo);
+            SalvarAuditoria(0, produtoAntigo.Id, $"Produto Atualizado id {produtoAntigo.Id}");
+            return Ok("usuario atualizado com sucesso!");
         }
     }
 }
